@@ -1,16 +1,13 @@
-# todo
+# flutter example
 
-A new Flutter project.
+A simple flutter app with crud operations into ASP.NET Core Rest Api.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+- Download flutter binaries
+- Fix PATH
+- Check if everything is ok with flutter doctor
+- Run the rest api that you can find [here](https://github.com/VicenzoMartinelli/xUnit-Example)
+- Install Dart and Flutter plugins on VS Code.
+- Create a new project by the command pallete
+- Run it with flutter start
